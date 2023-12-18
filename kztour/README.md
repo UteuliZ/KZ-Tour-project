@@ -24,10 +24,6 @@ Illustrations:
 ![photo_2023-12-18_16-17-09](https://github.com/UteuliZ/KZ-Tour-project/assets/153912869/962ba3d6-7315-4146-90b0-ec9032fa186c)
 ![photo_2023-12-18_16-17-05](https://github.com/UteuliZ/KZ-Tour-project/assets/153912869/e42a9949-0fd0-42b1-915d-344b306283f4)
 
-
-
-a little information about them
-From the Star Wars movie series.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
