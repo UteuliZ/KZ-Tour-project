@@ -1,0 +1,57 @@
+.info-container {
+    margin: 4rem 6rem;
+    text-align: start;
+    color: navy;
+}
+
+.info-container h1 {
+    padding-bottom: 1rem;
+}
+
+.info-container p {
+    padding-bottom: 2rem;
+}
+
+.team-info {
+    margin: 4rem 6rem;
+    color: navy;
+}
+
+.team-info h2 {
+    font-size: 3rem;
+}
+
+.info-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 2rem;
+}
+
+.info-table th, td {
+    border: 1px solid navy;
+    padding: 1rem;
+}
+
+.info-table th {
+    background-color: beige;
+    color: navy;
+}
+
+@media screen and (max-width: 850px) {
+    .info-container{
+        margin: 4rem 2rem;
+    }
+
+    .team-info {
+        margin: 4rem 2rem;
+        color: navy;
+    }
+    .info-table th{
+        display: block;
+        width: 100%;
+    }
+    .info-table td{
+        display: block;
+        width: 100%;
+    }
+}

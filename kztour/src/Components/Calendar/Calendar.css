@@ -1,0 +1,107 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: beige;
+    color: navy;
+    padding: 1rem;
+}
+
+.weekend {
+    color: deeppink;
+}
+
+.days-container {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    gap: 5px;
+}
+
+.day-cell {
+    padding: 10px;
+    text-align: center;
+    min-height: 80px;
+    cursor: pointer;
+    border: 1px solid #ddd;
+}
+
+.day-cell:hover {
+    background-color: navy;
+    color: #fff;
+}
+
+.today {
+    background-color: deeppink;
+    color: white;
+}
+.event-form input {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid navy;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+.events-container{
+    padding-top: 1rem;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    color: navy;
+}
+
+ul {
+    padding: 0;
+    list-style: none;
+}
+
+button {
+    padding: 0.5rem 1rem;
+    white-space: nowrap;
+    border-radius: 0.3rem;
+    font-size: 1rem;
+    font-weight: 600;
+    border: none;
+    cursor: pointer;
+    transition: 0.2s ease-in-out;
+    color: navy;
+}
+
+button:hover{
+    background-color: navy;
+    color: beige;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 2rem;
+}
+
+table th, td {
+    border: 1px solid navy;
+    padding: 1rem;
+}
+
+table th {
+    background-color: beige;
+    color: navy;
+}
+
+@media screen and (max-width: 850px) {
+    .days-container {
+        grid-template-columns: repeat(7, 1fr);
+        gap: 5px;
+    }
+
+    .events-container {
+        flex-direction: column;
+        align-items: center;
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .event-form input {
+        width: 100%;
+        box-sizing: border-box;
+    }
+}
