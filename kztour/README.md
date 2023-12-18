@@ -20,8 +20,12 @@ KZTour is created using modern web development technologies, providing user-frie
 Illustrations:
 ![photo_2023-12-18_16-16-47](https://github.com/UteuliZ/KZ-Tour-project/assets/153912869/f7d863d2-60ca-4714-b39c-b79c4d877402)
 ![photo_2023-12-18_16-16-56](https://github.com/UteuliZ/KZ-Tour-project/assets/153912869/5ae7e0c4-a00a-45f7-ab74-739983bed010)
-![photo_2023-12-18_16-17-02](https://github.com/UteuliZ/KZ-Tour-project/assets/153912869/217ba783-aa6a-4390-9576-e64d30b76b03)
-![photo_2023-12-18_16-17-05](https://github.com/UteuliZ/KZ-Tour-project/assets/153912869/b146e0f1-5d04-4dc5-bc13-0d3da844dc)
+![photo_2023-12-18_16-17-02](https://github.com/UteuliZ/KZ-Tour-project/assets/153912869/217ba783-aa6a-4390-9576-e64![photo_2023-12-18_16-17-05](https://github.com/UteuliZ/KZ-Tour-project/assets/153912869/dcddaf8a-b152-43a3-bd56-4e38dd44d144)
+d30b76b03)
+
+![Uploading photo_2023-12-18_16-17-05.jpg…]()
+
+
 ![photo_2023-12-18_16-17-09](https://github.com/UteuliZ/KZ-Tour-project/assets/153912869/4dbc8d70-d26f-4578-9e74-babe22124cb5)
 50)
 
